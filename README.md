@@ -7,7 +7,7 @@ hasil desain dapat dilihat di link berikut : https://efatigeovaniisir.github.io/
 
 ## Hasil Desain
 Home
-<img src="img/1.png" with="500%">
+<img src="img/1.png" with="500px">
 
 Resume
 <img src="img/2.png">
